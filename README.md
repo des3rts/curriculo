@@ -5,7 +5,7 @@
 ##### 2026
 2027
 - [página]() 
-Num|Nota|Nome
+Num | Nota | Nome
 ---|---|---
-5|10|Leo
+1 | 10,0 | Leo
   
